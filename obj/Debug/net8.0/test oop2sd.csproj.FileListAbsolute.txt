@@ -1,0 +1,15 @@
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\bin\Debug\net8.0\test oop2sd.exe
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\bin\Debug\net8.0\Camera.txt
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\bin\Debug\net8.0\test oop2sd.deps.json
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\bin\Debug\net8.0\test oop2sd.runtimeconfig.json
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\bin\Debug\net8.0\test oop2sd.dll
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\bin\Debug\net8.0\test oop2sd.pdb
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\obj\Debug\net8.0\test oop2sd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\obj\Debug\net8.0\test oop2sd.AssemblyInfoInputs.cache
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\obj\Debug\net8.0\test oop2sd.AssemblyInfo.cs
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\obj\Debug\net8.0\test oop2sd.csproj.CoreCompileInputs.cache
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\obj\Debug\net8.0\test oop2sd.dll
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\obj\Debug\net8.0\refint\test oop2sd.dll
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\obj\Debug\net8.0\test oop2sd.pdb
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\obj\Debug\net8.0\test oop2sd.genruntimeconfig.cache
+C:\Users\ASTRETHEBLUD\source\repos\test oop2sd\test oop2sd\obj\Debug\net8.0\ref\test oop2sd.dll
